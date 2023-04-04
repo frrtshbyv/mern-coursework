@@ -1,7 +1,7 @@
 {
   "name": "mern-ecommerce",
   "version": "1.0.0",
-  "description": "MERN Ecommerce app by yhchan",
+  "description": "MERN Ecommerce app by Asfarukh",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -12,7 +12,7 @@
     "data:import": "node backend/seeder",
     "data:destroy": "node backend/seeder -d"
   },
-  "author": "YH Chan",
+  "author": "asfarukh",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
